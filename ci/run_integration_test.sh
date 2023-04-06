@@ -29,7 +29,7 @@ pip install .
 pip install awscli
 
 # install scylla-ccm
-pip install https://github.com/scylladb/scylla-ccm/archive/master.zip
+pip install https://github.com/Gor027/scylla-ccm/archive/multi-dc-cloud.zip
 
 # download version
 
